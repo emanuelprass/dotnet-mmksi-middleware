@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "IGJtk/GjoykI4KV3URk/ISnEtptxdMqQRjuPMr8mm7y5Abdv9Rn5X9mkBIxzoLM73g7qSSVJcn2UPofdjkLXLw==",
+  "dgSpecHash": "H04TW1AXVMfC2eqj/hdp8CXGmqafjHWMy7pZ1UVe+brQ3efIC45B87e8oWzebXOv8fuBAK5f+wG1RRhpoCYXmg==",
   "success": true,
   "projectFilePath": "/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/mmksi-middleware.csproj",
   "expectedPackageFiles": [
+    "/home/emanuel/.nuget/packages/awssdk.cognitoidentityprovider/3.7.1.54/awssdk.cognitoidentityprovider.3.7.1.54.nupkg.sha512",
+    "/home/emanuel/.nuget/packages/awssdk.core/3.7.3.22/awssdk.core.3.7.3.22.nupkg.sha512",
     "/home/emanuel/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/emanuel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/emanuel/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/home/emanuel/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/home/emanuel/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/home/emanuel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
