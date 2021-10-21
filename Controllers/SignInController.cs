@@ -12,7 +12,7 @@ using mmksi_middleware.Transport;
 namespace mmksi_middleware.Controllers
 {
     [ApiController]
-    [Route("signin")]
+    [Route("aws/signin")]
     public class AuthenticationController : ControllerBase
     {
         private readonly string _poolId = "us-east-2_p74zOrZvg";
