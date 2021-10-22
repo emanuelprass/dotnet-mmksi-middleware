@@ -27,7 +27,9 @@
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_AWSPOOLID": "us-east-2_p74zOrZvg",
         "ASPNETCORE_AWSCLIENTID": "469cct1mnf5ja0difbo7sk6fkj",
-        "ASPNETCORE_AWSCLIENTSECRET": "n0i4r6g75g7i4vi4jc8uu011gg681aglgarkd4fmafhu0atln3n"
+        "ASPNETCORE_AWSCLIENTSECRET": "n0i4r6g75g7i4vi4jc8uu011gg681aglgarkd4fmafhu0atln3n",
+        "ASPNETCORE_MRPAPIKEY": "6c650c1e-96cf-4e21-bae2-ad258436c569",
+        "ASPNETCORE_MRPBASEURL": "https://mrpbridge.mocil.id/api/vehicles"
       }
     }
   }

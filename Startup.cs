@@ -1,15 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
 namespace mmksi_middleware
@@ -26,8 +19,12 @@ namespace mmksi_middleware
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
-            // Console.WriteLine(Environment.GetEnvironmentVariable("ASPNETCORE_AWSPOOLID"));
+            services.AddAuthentication("Bearer")
+                .AddJwtBearer(options =>
+                {
+                    options.Audience = "469cct1mnf5ja0difbo7sk6fkj";
+                    options.Authority = "https://cognito-idp.us-east-2.amazonaws.com/us-east-2_p74zOrZvg";
+                });
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -47,6 +44,8 @@ namespace mmksi_middleware
             }
 
             app.UseHttpsRedirection();
+
+            app.UseAuthentication();
 
             app.UseRouting();
 

@@ -29,3 +29,14 @@
 /home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/AWSSDK.CognitoIdentityProvider.dll
 /home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/AWSSDK.Core.dll
 /home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/System.Web.Http.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/home/emanuel/work-spaces/refactory/source-codes/codes-netcore-linux/mmksi-middleware/obj/Debug/net5.0/mmksi-middleware.csproj.CopyComplete
